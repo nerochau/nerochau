@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Connect with Me  
-📫 **Email**: chau@lclark.edu  
+📫 **Email**: cnearyroth@yahoo.com
 🔗 **LinkedIn**: [linkedin.com/in/samphasnearyroth](https://www.linkedin.com/in/samphasnearyroth)
 
 ---

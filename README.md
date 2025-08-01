@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with Me  
 📫 **Email**: cnearyroth@yahoo.com
-🔗 **LinkedIn**: [linkedin.com/in/samphasnearyroth](https://www.linkedin.com/in/samphasnearyroth)
+🔗 **LinkedIn**: [linkedin.com/in/samphasnearyroth](www.linkedin.com/in/samphasnearyrothchau)
 
 ---
 

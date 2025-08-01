@@ -2,7 +2,7 @@
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/nerochau" alt="Nero's GitHub Profile Picture" />
 
-🎓 First-year Computer Science & Math student at Lewis & Clark College  
+🎓 Rising Computer Science & Math sophomore at Lewis & Clark College  
 🌍 Tech-for-Good Advocate | AI & Data Enthusiast | ACM Student Leader  
 💻 Passionate about building ethical, human-centered technology that empowers communities
 
@@ -37,8 +37,6 @@ Currently:
 **Focus**: Cultural education, UX/UI, gamification  
 **Results**: Encouraged intercultural dialogue among beta testers and built confidence in using Swift  
 
-🔗 [View Project Repo](#)
-
 ---
 
 ### ♟️ **Lines of Action** – Python Strategy Game  
@@ -51,17 +49,6 @@ Currently:
 - Player vs. AI mode  
 
 🔗 [View Game Project](#)
-
----
-
-### 💡 **Fall AI Studio: Urban Heat Island Prediction**  
-> EY Open Science Data Challenge project tackling sustainability through AI
-
-**Goal**: Predict urban heat hotspots using open geospatial + satellite data  
-**Tech Stack**: Python, NumPy, Pandas, XGBoost, SHAP  
-**Results**: Built interpretable models & mapped areas needing sustainable infrastructure  
-
-🔗 [View AI Studio Project Repo](#)
 
 ---
 
@@ -93,24 +80,7 @@ Currently:
 
 ## 🌟 Fun Fact
 
-I started in tech by creating websites to amplify unheard voices and now mentor others to do the same. You’ll catch me building things with a matcha in hand, journaling in 3 languages, or organizing workshops about AI, ethics, and equity.
-
----
-
-## ✅ Repo Organization Plan
-
-To meet all GitHub checklist requirements:
-
-- [x] 3+ polished project repos
-- [x] 2 AI/ML/Data-related repos (Cultura, Fall AI Studio, + Wander in Tech Analytics)
-- [x] Clear naming conventions (`lines-of-action-game`, `cultura-ios-app`, `urban-heat-prediction`)
-- [x] Fall AI Studio repo includes:
-  - [x] README (objectives, methodology, findings)
-  - [x] Sample dataset (small version)
-  - [x] Jupyter Notebook for modeling & EDA
-  - [x] Setup + usage instructions
-  - [x] Visualizations + future steps
-  - [x] Contribution breakdown
+I started in tech by creating websites to amplify unheard voices and now mentor others to do the same. You’ll catch me building things with a matcha in hand, journaling in 6 languages, or organizing workshops about AI, ethics, and equity. I am currently in South Africa!
 
 ---
 

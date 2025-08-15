@@ -35,7 +35,7 @@ Currently:
 - Win/tie condition detection  
 - Player vs. AI mode  
 
-🔗 [View Game Project](#)
+🔗 [View Game Project](https://github.com/nerochau/CS172/blob/ac5a95d43b6c2440eb7e3ac30b8e90f01da0fc62/lines_of_action.py)
 
 ---
 

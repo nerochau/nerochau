@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Nero (Samphasnearyroth Chau)
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/nerochau" alt="Nero's GitHub Profile Picture" />
-
 🎓 Rising Computer Science & Math sophomore at Lewis & Clark College  
 🌍 Tech-for-Good Advocate | AI & Data Enthusiast | ACM Student Leader  
 💻 Passionate about building ethical, human-centered technology that empowers communities
